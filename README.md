@@ -3,16 +3,16 @@
 Welcome to my portfolio, here you can find links to all my recent projects! 
 
 ## Table of Contents 📚
-* insert link to coding project here
-* insert link to visuals here
-* insert link to data project here
+* [Python](#python-)
+* [Power BI](#power-bi-)
+* [Misc. Data Projects](#misc-data-projects-)
 
 ## Python 🐍
 ---
 
 | Project Link | Description | Tools | Completion Date | 
 |--------------|-------------|-------|-----------------|
-| **Paper Hearts GUI**| Built a GUI-based book recommendation system that uses previous purchases to suggest personalized book purchases at a specific book store| Python, VSCode, Excel, API connections| December 2024|
+| [Paper Hearts GUI](https://github.com/rebeccamonson/Paper-Hearts-GUI)💖📖| Built a GUI-based book recommendation system that uses previous purchases to suggest personalized book purchases at a specific book store| Python, VSCode, Excel, API connections, SQLite| December 2024|
 
 ---
 
