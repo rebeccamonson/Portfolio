@@ -21,7 +21,7 @@ Welcome to my portfolio, here you can find links to all my recent projects!
 | Project Link | Description | Tools | Completion Date | 
 |--------------|-------------|-------|-----------------|
 |**Ordering Dashboard**| Created a dashboard capable of tracking order history data and displaying needed supplies based on specific requirements| Excel, Power BI | 🚧 In Progress 🚧|
-|**Venue Dashboard**| Created a dashboard that displays concert venue data broken up by country and rock music | Excel, Power BI| September 2024| 
+|[Concert Dashboard](https://github.com/rebeccamonson/Venue-Dashboard) 🎸🎶| Created a dashboard that displays concert venue data broken up by country and rock music | Excel, Power BI| September 2024| 
 
 ## Misc. Data Projects 💫
 ---
