@@ -27,5 +27,5 @@ Welcome to my portfolio, here you can find links to all my recent projects!
 ---
 | Project Link | Description | Tools | Completion Date | 
 |--------------|-------------|-------|-----------------|
-|**Housing Data Project**| Developed a predictive model for housing prices in Arizona with the goal of being able to predict home prices based on key factors| Excel, SAS EM, SAS EG| March 2024|
-|**Influencer Data Project**| Developed a model for predicting influencer engagement on the social media app Instagram| Excel, SAS EM, SAS EG| December 2024|
+|[Housing Data Project](https://github.com/rebeccamonson/Housing-Data-Project) 🏡💰| Developed a predictive model for housing prices in Arizona with the goal of being able to predict home prices based on key factors| Excel, SAS EM, SAS EG| March 2024|
+
